@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>README.md</title>
-  </head>
-  <body>
+
     <h1>Starbucks Web Page</h1>
     <p>This is a simple replica of the Starbucks main webpage. The webpage was built using HTML, CSS and Bootstrap framework.</p>
    
@@ -27,5 +21,4 @@
     <p>To use this webpage, simply open the <code>index.html</code> file in your web browser.</p>
     <h2 id="contributing">Contributing</h2>
     <p>Contributions are welcome! If you find any issues or have any suggestions, feel free to open an issue or submit a pull request.</p>   
-  </body>
-</html>
+ 
